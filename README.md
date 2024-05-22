@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0vhh
 - 🏝️ I’m interested in any coding projects.
-- 🍍 I’m currently learning HTML
+- 🍍 
 - 📫 How to reach me discord: 0vhh
 
 <!---
