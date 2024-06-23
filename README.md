@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/0vhh/vists.svg?style=flat-square)](http://hits.dwyl.com/0vhh/vists)
+[![VisitCount](https://hits.dwyl.com/0vhh/vists.svg?style=flat-square)](http://hits.dwyl.com/0vhh/vists)
 
 
 
