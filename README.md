@@ -8,6 +8,7 @@
 - 🌱 I’m looking to collaborate on **coding projects**
 
 <h3 align="left">Connect with me:</h3>
+https://discord.gg/wpXThaKQ25
 <p align="left">
 </p>
 
